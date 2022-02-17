@@ -1,0 +1,14 @@
+h1 {
+    color: #3735bd;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.box {
+    line-height: 1;
+    background: #f3dfef;
+    padding: 3% 3%;
+}
+
+h2 {
+    font-family: 'Space Mono', monospace;
+}
