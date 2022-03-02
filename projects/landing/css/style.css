@@ -1,0 +1,43 @@
+.bg-custom {
+    background-color: #fffacd;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    text-transform: uppercase;
+    color: #caa429
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #caa429
+}
+
+h1 {
+    color: hsl(46, 66%, 48%);
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700
+}
+
+a {
+    color: #caa429;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f8be0085;
+}
+
+.block {
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+footer {
+    border-top: 13px solid #fffacd;
+    padding: 20px
+}
