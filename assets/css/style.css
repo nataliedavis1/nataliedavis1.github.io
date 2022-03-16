@@ -1,4 +1,43 @@
- .block, h1, p {
+ .block, h1, p, h5 {
      text-align: center;
      letter-spacing: 1px;
+ }
+
+ .bg-custom {
+     background-color: #e0fbfc;
+ }
+
+ body {
+     padding-left: 40px;
+     background-color: #e0fbfc;
+ }
+
+ h1 {
+     padding-top: 25px;
+     font-family: 'Abril Fatface', cursive;
+ }
+
+ .center {
+     padding: 30px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     height: 4in;
+     border-radius: 50%;
+ }
+
+ h6 {
+     font-family: 'Inter', sans-serif;
+     border: 3px solid rgb(84, 135, 228);
+     padding: 30px;
+     box-sizing: content-box;
+     width: 50%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     line-height: 2;
+ }
+
+ h2, p {
+     font-family: 'Inter', sans-serif;
  }
