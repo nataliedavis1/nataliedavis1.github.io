@@ -3,12 +3,7 @@
      letter-spacing: 1px;
  }
 
- .bg-custom {
-     background-color: #e0fbfc;
- }
-
- body {
-     padding-left: 40px;
+ .bg-custom, body {
      background-color: #e0fbfc;
  }
 
@@ -25,7 +20,7 @@
      height: 4in;
      border-radius: 50%;
  }
- 
+
  h6 {
      font-family: 'Inter', sans-serif;
      border: 3px solid rgb(84, 135, 228);
