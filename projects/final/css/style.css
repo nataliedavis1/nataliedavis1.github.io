@@ -3,7 +3,7 @@ iframe {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 10px
+    padding: 10px;
 }
 
 h1,
@@ -22,20 +22,18 @@ body {
     background-color: lightgray;
 }
 
-.paragraph1,
-.paragraph2,
-.paragraph3 { 
+.container { 
     padding: 30px;
 }   
 
 figure {
     padding: 45px;
-    background-color: darkgrey
+    background-color: darkgrey;
 }
 
 
 @media (max-width:768px) {
     h4 {
-        color: rgb(228, 98, 98)
+        color: rgb(228, 98, 98);
     }
 }
